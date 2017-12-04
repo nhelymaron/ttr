@@ -1,2 +1,1 @@
-# ttr
-last app na toh
+# reactMinimal
